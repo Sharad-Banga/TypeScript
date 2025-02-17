@@ -1,3 +1,3 @@
-let x: number = 1;
+let Uname: String = "sharad";
 
-console.log(x);
+console.log(`hello ${Uname}`);
