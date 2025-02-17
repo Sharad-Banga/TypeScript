@@ -1,3 +1,6 @@
 "use strict";
-let Uname = "sharad";
-console.log(`hello ${Uname}`);
+// let Uname: String = "sharad";
+function greet(Uname) {
+    console.log(`hello ${Uname}`);
+}
+greet("sharad");

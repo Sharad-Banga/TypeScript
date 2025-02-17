@@ -1,3 +1,7 @@
-let Uname: String = "sharad";
+// let Uname: String = "sharad";
 
-console.log(`hello ${Uname}`);
+function greet(Uname: string){
+  console.log(`hello ${Uname}`);
+}
+
+greet("sharad");
