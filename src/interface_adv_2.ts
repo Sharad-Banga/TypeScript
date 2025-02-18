@@ -1,5 +1,7 @@
 //implementing interfaces in java script
 
+//diff b/w interface and type is that interface can be implemented by class
+
 interface People{
   name :string,
   age:number
