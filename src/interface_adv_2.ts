@@ -3,8 +3,8 @@
 //diff b/w interface and type is that interface can be implemented by class
 
 interface People{
-  name :string,
-  age:number
+  name :string;
+  age:number;
 }
 
 class Manager implements People{
