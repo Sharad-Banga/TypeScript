@@ -12,13 +12,13 @@ interface Ujer {
 type d = Pick<Ujer,'name'|'age'|'email'>;
 type dd = Partial<d>;
 
-function ss(user : dd){
+function sss(user : dd){
   console.log(user.age );
   
 }
 
 
-ss({
+sss({
   name :"sharad",
   age : 21
 }
