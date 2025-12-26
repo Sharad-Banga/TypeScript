@@ -1,0 +1,4 @@
+//partials 
+//required
+//pick
+//ommit
