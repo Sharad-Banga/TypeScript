@@ -9,5 +9,4 @@ function crs(type:Car){
   console.log(type);
   
 }
-
 crs(Car.color);
